@@ -3,3 +3,5 @@ Code for watsapp application
  - chat page
  - Image, documents , audio, video , etc
  - Last seen code
+- Adding the audio feature
+- Adding the video feature
