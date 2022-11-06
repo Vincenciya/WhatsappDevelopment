@@ -2,3 +2,4 @@ Code for watsapp application
  - Profile page
  - chat page
  - Image, documents , audio, video , etc
+ - Last seen code
